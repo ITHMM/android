@@ -1,0 +1,52 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+	<dimen name="indicator_corner_radius">12.0dip</dimen>
+	
+	<dimen name="title_height">48.0dip</dimen>
+    <!-- 加载页面 -->
+    <dimen name="load_margin_top">150dp</dimen>
+
+    <!-- 签到页面 -->
+    <dimen name="sigin_tab_height">80dp</dimen>
+
+    <!-- 登陆页面 -->
+    <dimen name="login_margin_top">110dp</dimen>
+
+    <!-- 页面按钮字体大小 -->
+    <dimen name="btn_text_size">16dp</dimen>
+    <!-- 页面标题字体大小 -->
+    <dimen name="page_caption_text_size">24dp</dimen>
+    <!-- 主界面字体大小 -->
+    <dimen name="homepage_text_size">20dp</dimen>
+    <!-- 页面头部高度 -->
+    <!-- <dimen name="page_top_height">120px</dimen> -->
+    <!-- listview  列表项字体大小 -->
+    <dimen name="list_item_top_text_size">20dp</dimen>
+    <dimen name="list_item_center_text_size">18dp</dimen>
+    <dimen name="list_item_bottom_text_size">16dp</dimen>
+    <!-- 页面Label字体大小 -->
+    <dimen name="label_text_size">16dp</dimen>
+    <!-- 页面Label 内容字体大小 -->
+    <dimen name="label_content_text_size">14dp</dimen>
+    
+    <dimen name="setting_item_height">55dip</dimen>
+
+    <!-- 关于界面 -->
+    	<!-- TextView距左边距离 -->
+    	<dimen name="as_regards_tv_marginleft">17dp</dimen>
+    	<!-- Button距右边距离 -->
+    	<dimen name="as_regards_btn_marginright">17dp</dimen>
+    	<!-- logo图片的布局距离下面布局的距离marginbottom -->
+    	<dimen name="as_regards_layout_of_iv_marginbottom">25dp</dimen>
+    	<!-- 布局距离底栏marginbottom -->
+    	<dimen name="as_regards_layout_marginbottom">10dp</dimen>
+    	<!-- 布局距离栏左边marginbottom -->
+    	<dimen name="as_regards_layout_marginleft">7dp</dimen>
+    	<!-- 布局距离栏右边marginbottom -->
+    	<dimen name="as_regards_layout_marginright">7dp</dimen>
+    	<!-- 检查更新、好友推荐、官方网站和官方微博布局高度 -->
+    	<dimen name="as_regards_update_recommend_website_microblog_layout_height">55dp</dimen>
+</resources>

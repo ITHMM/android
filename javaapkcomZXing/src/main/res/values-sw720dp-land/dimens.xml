@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 加载页面 -->
+    <dimen name="load_margin_top">150dp</dimen>
+
+    <!-- 签到页面 -->
+    <dimen name="sigin_tab_height">80dp</dimen>
+	<dimen name="title_height">58.0dip</dimen>
+    <!-- 登陆页面 -->
+    <dimen name="login_margin_top">110dp</dimen>
+
+    <!-- 页面按钮字体大小 -->
+    <dimen name="btn_text_size">18dp</dimen>
+    <!-- 页面标题字体大小 -->
+    <dimen name="page_caption_text_size">24dp</dimen>
+    <!-- 主界面字体大小 -->
+    <dimen name="homepage_text_size">20dp</dimen>
+    <!-- 页面头部高度 -->
+    <!-- <dimen name="page_top_height">120px</dimen> -->
+    <!-- listview  列表项字体大小 -->
+    <dimen name="list_item_top_text_size">20dp</dimen>
+    <dimen name="list_item_center_text_size">18dp</dimen>
+    <dimen name="list_item_bottom_text_size">16dp</dimen>
+    <!-- 页面Label字体大小 -->
+    <dimen name="label_text_size">16dp</dimen>
+    <!-- 页面Label 内容字体大小 -->
+    <dimen name="label_content_text_size">14dp</dimen>
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+
+    <dimen name="button_height">65px</dimen>
+    
+    <dimen name="setting_item_height">55dip</dimen>
+</resources>

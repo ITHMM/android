@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_mini.xml",
+        "source": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\src\\main\\res\\drawable\\progressbar_mini.xml"
+    },
+    {
+        "merged": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\build\\intermediates\\res\\merged\\debug\\drawable\\task_process_dialog_background.xml",
+        "source": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\src\\main\\res\\drawable\\task_process_dialog_background.xml"
+    },
+    {
+        "merged": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_btn.xml",
+        "source": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    }
+]

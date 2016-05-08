@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\studio\My\ZXing\javaapkcomZXing\libs\Acadiatech_JSON.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7caeae167290b1f956875e5d2d3047ef69555f6c">
+        <dex dex="E:\studio\My\ZXing\javaapkcomZXing\build\intermediates\transforms\dex\debug\folders\1000\2\Acadiatech_JSON_9bb9690c66ffe1b2b0a1215c00e41729f77d1a15\classes.dex" />
+    </item>
+    <item
+        jar="E:\studio\My\ZXing\javaapkcomZXing\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1e6e5ce5ed266fdcd7386c5836d910b43499c70f">
+        <dex dex="E:\studio\My\ZXing\javaapkcomZXing\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b130f37d1928aa12b9905307bfbc5101056821bc\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\studio\My\ZXing\javaapkcomZXing\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_f0ab625e2aa242d01aa2cd3c4d39a3cf5323d1f8\classes.dex" />
+    </item>
+    <item
+        jar="E:\studio\My\ZXing\javaapkcomZXing\libs\zxing.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="E:\studio\My\ZXing\javaapkcomZXing\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_5db38920cd3f1c6862ee34954185bae1fb7d7e7a\classes.dex" />
+    </item>
+    <item
+        jar="E:\studio\My\ZXing\javaapkcomZXing\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6a0434fc084afa07b5f6466c660d322655d93a2d">
+        <dex dex="E:\studio\My\ZXing\javaapkcomZXing\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bb71b232fc41e657df317e2f5dd42fb210328233\classes.dex" />
+    </item>
+
+</items>

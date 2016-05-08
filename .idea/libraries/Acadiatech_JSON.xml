@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Acadiatech_JSON">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javaapkcomZXing/libs/Acadiatech_JSON.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

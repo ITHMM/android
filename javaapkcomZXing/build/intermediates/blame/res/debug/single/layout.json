@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\build\\intermediates\\res\\merged\\debug\\layout\\task_progress_dialog.xml",
+        "source": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\src\\main\\res\\layout\\task_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\build\\intermediates\\res\\merged\\debug\\layout\\spiner_item_layout.xml",
+        "source": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\src\\main\\res\\layout\\spiner_item_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_capture.xml",
+        "source": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\src\\main\\res\\layout\\zxing_capture.xml"
+    },
+    {
+        "merged": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_title.xml",
+        "source": "E:\\studio\\My\\ZXing\\javaapkcomZXing\\src\\main\\res\\layout\\zxing_title.xml"
+    }
+]
